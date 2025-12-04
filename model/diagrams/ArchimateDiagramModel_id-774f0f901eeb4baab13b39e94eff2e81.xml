@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organization Viewpoint"
     id="id-774f0f901eeb4baab13b39e94eff2e81"
+    documentation="Requirements blalbla"
     viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -13,12 +14,12 @@
         x="120"
         y="120"
         width="804"
-        height="600"/>
+        height="384"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3437aa31ef9e4e97ae5531d090581cd5">
       <bounds
-          x="576"
+          x="540"
           y="36"
           width="229"
           height="301"/>
