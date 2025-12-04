@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Usage Viewpoint"
+    id="id-9e960982a02d4cb8a6fc0d228af80ae1"
+    documentation="Req 16: Models how applications are supported by the software and hardware infrastructure: technology services delivered by the devices, system software and networks are provided to the applications"
+    viewpoint="technology_usage"/>

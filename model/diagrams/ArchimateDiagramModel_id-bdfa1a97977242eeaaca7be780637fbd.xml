@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Viewpoint"
+    id="id-bdfa1a97977242eeaaca7be780637fbd"
+    documentation="Req 15. Models the hardware and software infrastructure upon which the application layer depends, covering the physical devices and networks, and supporting system software such as operating systems, databases, and middleware"
+    viewpoint="technology"/>

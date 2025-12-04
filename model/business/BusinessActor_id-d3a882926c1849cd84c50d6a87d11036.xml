@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DataScience Team (DST)"
-    id="id-d3a882926c1849cd84c50d6a87d11036"/>
+    id="id-d3a882926c1849cd84c50d6a87d11036"
+    documentation="Contains data and AI engineers. Responsible for maintaining data pipelines, APIs, and the Kadaster Knowledge Graph infrastructure. Additionally, explore applications of AI assistants (e.g., Loki) to interface with KKG."/>
