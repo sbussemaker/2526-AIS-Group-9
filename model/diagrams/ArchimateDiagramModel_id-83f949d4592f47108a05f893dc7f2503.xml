@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="R13"
     id="id-83f949d4592f47108a05f893dc7f2503">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -141,8 +141,18 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-2fc0617e5a9d4e9692f7c83487b23384.xml#id-2fc0617e5a9d4e9692f7c83487b23384"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-abfd5b38f5ff4e73b5f516a07debccc0"
+        source="id-c2c8701b869e45dc907201aafbe3dc22"
+        target="id-9985e4f5fcf74afcacd44a59f3079fe7">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f7a08bc7253648c4b840848e66826a5b.xml#id-f7a08bc7253648c4b840848e66826a5b"/>
+    </sourceConnections>
     <bounds
-        x="-12"
+        x="-36"
+        y="216"
         width="1093"
         height="265"/>
     <children
@@ -508,6 +518,19 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-1d723483e8fe40d8b58a16c9a6ba7353.xml#id-1d723483e8fe40d8b58a16c9a6ba7353"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9985e4f5fcf74afcacd44a59f3079fe7"
+        targetConnections="id-abfd5b38f5ff4e73b5f516a07debccc0">
+      <bounds
+          x="972"
+          y="60"
+          width="85"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-2becb6eb40184f0eb2903fe3d50ca4c3.xml#id-2becb6eb40184f0eb2903fe3d50ca4c3"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-2c57b8b27cfc477a8fe317782520006e.xml#id-2c57b8b27cfc477a8fe317782520006e"/>
@@ -580,8 +603,8 @@
           href="ServingRelationship_id-fd0bbd0ee06842219a710c039a12d553.xml#id-fd0bbd0ee06842219a710c039a12d553"/>
     </sourceConnections>
     <bounds
-        x="-18"
-        y="300"
+        x="-36"
+        y="120"
         width="1105"
         height="73"/>
     <children
@@ -734,8 +757,8 @@
           href="CompositionRelationship_id-d47ce81838284319971f98eb65224c2a.xml#id-d47ce81838284319971f98eb65224c2a"/>
     </sourceConnections>
     <bounds
-        x="-18"
-        y="420"
+        x="-36"
+        y="12"
         width="1081"
         height="97"/>
     <children
