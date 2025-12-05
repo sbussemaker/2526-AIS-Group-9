@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource Map Viewpoint"
-    id="id-a4c02b8c482f40068d0ca9d46acf4114">
+    id="id-a4c02b8c482f40068d0ca9d46acf4114"
+    viewpoint="resource">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-00eb18aa2dc24182881ce5f13da024c0"
