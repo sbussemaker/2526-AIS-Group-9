@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="R14"
     id="id-1a67537feedf4f50b769acfda3a5f517">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -142,8 +142,9 @@
           href="CompositionRelationship_id-fbc4b33c080b4817aad9bff564f3df0c.xml#id-fbc4b33c080b4817aad9bff564f3df0c"/>
     </sourceConnections>
     <bounds
-        x="-12"
-        width="1093"
+        x="-36"
+        y="216"
+        width="1105"
         height="265"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -580,8 +581,8 @@
           href="CompositionRelationship_id-ff84ad496a4b4f44a380c9f420a7d874.xml#id-ff84ad496a4b4f44a380c9f420a7d874"/>
     </sourceConnections>
     <bounds
-        x="-18"
-        y="276"
+        x="-36"
+        y="120"
         width="1105"
         height="73"/>
     <children
@@ -734,9 +735,9 @@
           href="CompositionRelationship_id-41366b99af194df494d1d36d6b0b1ecc.xml#id-41366b99af194df494d1d36d6b0b1ecc"/>
     </sourceConnections>
     <bounds
-        x="-18"
-        y="360"
-        width="1081"
+        x="-36"
+        y="12"
+        width="1105"
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -834,9 +835,9 @@
           href="CompositionRelationship_id-614fbffc3fa0409d8885a0c01b1a955f.xml#id-614fbffc3fa0409d8885a0c01b1a955f"/>
     </sourceConnections>
     <bounds
-        x="-12"
-        y="468"
-        width="1081"
+        x="-36"
+        y="516"
+        width="1105"
         height="89"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
