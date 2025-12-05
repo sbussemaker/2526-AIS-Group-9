@@ -1,7 +1,8 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-2430559b05464d499a769c52f488f1de">
+    id="id-2430559b05464d499a769c52f488f1de"
+    documentation="5. Should model the realisation of requirements by core elements">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-56a8f62b71de48d6a31aa6a689cf448b.xml#id-56a8f62b71de48d6a31aa6a689cf448b"/>

@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirements Realization View"
     id="id-7e2a2be37c88433fa8d9b4f2ebae6898"
+    documentation="Req 5. Should model the realisation of requirements by core elements"
     viewpoint="requirements_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
