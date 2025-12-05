@@ -21,16 +21,6 @@
         id="id-594230d4334044449733fd6b1d41bd7c"
         source="id-b140bdc9b9f744c5bb520b93befc33ae"
         target="id-289f0b1509514933b2a7062886f7a727">
-      <bendpoints
-          startX="-132"
-          startY="-7"
-          endX="12"
-          endY="-111"/>
-      <bendpoints
-          startX="-132"
-          startY="41"
-          endX="12"
-          endY="-63"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-f03f02bfe040473aa35310405953d3ac.xml#id-f03f02bfe040473aa35310405953d3ac"/>
@@ -52,7 +42,7 @@
     <bounds
         x="449"
         y="180"
-        width="120"
+        width="224"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
@@ -123,7 +113,7 @@
       id="id-579b266a7e8647ac8872ecc24212af8e"
       targetConnections="id-e653d93114fe4cb6844ea70d1ca3b087 id-707443a04d774d2eb2f9dc87283de822">
     <bounds
-        x="594"
+        x="636"
         y="284"
         width="120"
         height="97"/>
@@ -134,7 +124,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-18a0109ac76d45c784daaa08066c36a1"
-      targetConnections="id-b2c888d75437439f980a676905c152fa">
+      targetConnections="id-b2c888d75437439f980a676905c152fa id-62346fe35efe41018a5ca2997b4bfbad">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-788181f4d6d0476897cbe13a4e84f0f1"
@@ -170,7 +160,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-289f0b1509514933b2a7062886f7a727"
-      targetConnections="id-594230d4334044449733fd6b1d41bd7c id-9878cc728e7a4629917028e4ab738dc5">
+      targetConnections="id-594230d4334044449733fd6b1d41bd7c id-9878cc728e7a4629917028e4ab738dc5 id-b0c10dbce2444be4a51d3c7d53e531d2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d6ef234f13f44c4ea09da453d31c56f8"
@@ -181,9 +171,9 @@
           href="AssociationRelationship_id-91b99be0772240ae9c367cf14d4a01df.xml#id-91b99be0772240ae9c367cf14d4a01df"/>
     </sourceConnections>
     <bounds
-        x="305"
+        x="276"
         y="284"
-        width="120"
+        width="192"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -194,7 +184,7 @@
       id="id-ee1932c0b0a046e58e10e539faeac78d"
       targetConnections="id-623bdefa874143bd811c9f76995563d5">
     <bounds
-        x="449"
+        x="492"
         y="284"
         width="120"
         height="55"/>
@@ -211,33 +201,22 @@
         source="id-ff93f32993ec4713910b284a1582aa64"
         target="id-289f0b1509514933b2a7062886f7a727">
       <bendpoints
-          startX="84"
-          startY="-7"
-          endX="-12"
-          endY="-111"/>
+          startX="18"
+          startY="93"
+          endX="-101"
+          endY="-11"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-d2601f506d0b406797b848d7dd0c6897.xml#id-d2601f506d0b406797b848d7dd0c6897"/>
     </sourceConnections>
     <bounds
-        x="209"
+        x="186"
         y="180"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-2fd06cdfb7f643318ba01c5a2f501302.xml#id-2fd06cdfb7f643318ba01c5a2f501302"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-39db4c1266004442b88e0bfca5b4aa43"
-      textAlignment="1"
-      content="Yveline&#xD;&#xA;">
-    <bounds
-        x="-12"
-        y="36"
-        width="185"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -272,7 +251,7 @@
       targetConnections="id-0516ab934eee489f9d61712256d11226 id-34ab0efb2fb4427398f27e51bb8c7ac2">
     <bounds
         x="186"
-        y="338"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
@@ -280,14 +259,49 @@
         href="Assessment_id-ee539cacebe84f7aa8df96e755e9d4bd.xml#id-ee539cacebe84f7aa8df96e755e9d4bd"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d4dabde12cda4e4a911ffda6dd6808e3"
-      textAlignment="1"
-      content="Add rijkswaterstaat and provincies. Clear property registration is the most important aspect for kadaster.&#xD;&#xA;">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3992fd8e92d445689b2147a235cf0cf6">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b0c10dbce2444be4a51d3c7d53e531d2"
+        source="id-3992fd8e92d445689b2147a235cf0cf6"
+        target="id-289f0b1509514933b2a7062886f7a727">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-a912becc7a204a6ea029c84225d5e5ee.xml#id-a912becc7a204a6ea029c84225d5e5ee"/>
+    </sourceConnections>
     <bounds
-        x="591"
-        y="457"
-        width="185"
-        height="80"/>
+        x="312"
+        y="180"
+        width="128"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-07bd3e856fca4ad1a4e22161e609c707.xml#id-07bd3e856fca4ad1a4e22161e609c707"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a70750c22a6042e398172c48ca0248a9">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-62346fe35efe41018a5ca2997b4bfbad"
+        source="id-a70750c22a6042e398172c48ca0248a9"
+        target="id-18a0109ac76d45c784daaa08066c36a1">
+      <bendpoints
+          startY="105"
+          endX="-125"
+          endY="1"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-54152da5d2434716bc7435a1185a84f7.xml#id-54152da5d2434716bc7435a1185a84f7"/>
+    </sourceConnections>
+    <bounds
+        x="-72"
+        y="180"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-08d4a16aeada4e9d808916ea1222421b.xml#id-08d4a16aeada4e9d808916ea1222421b"/>
   </children>
 </archimate:ArchimateDiagramModel>
