@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modellenbureau"
+    id="id-cad78191da8245fb82afa4c84a1a055c"
+    documentation="Ontology experts: Define and manage the semantic models connecting key registers and external datasets. Their focus is on data quality, consistency, and alignment with international geospatial and semantic standards."/>
