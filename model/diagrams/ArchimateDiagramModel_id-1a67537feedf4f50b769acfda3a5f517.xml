@@ -264,7 +264,7 @@
       </sourceConnections>
       <bounds
           x="132"
-          y="144"
+          y="156"
           width="109"
           height="25"/>
       <archimateElement
@@ -309,8 +309,8 @@
             href="FlowRelationship_id-abc7d0f7a0894eacb19a2042314a2e62.xml#id-abc7d0f7a0894eacb19a2042314a2e62"/>
       </sourceConnections>
       <bounds
-          x="564"
-          y="126"
+          x="565"
+          y="132"
           width="97"
           height="37"/>
       <archimateElement
@@ -334,8 +334,8 @@
             href="FlowRelationship_id-f9cf38df339947088ba89fc71af83305.xml#id-f9cf38df339947088ba89fc71af83305"/>
       </sourceConnections>
       <bounds
-          x="720"
-          y="126"
+          x="780"
+          y="120"
           width="121"
           height="37"/>
       <archimateElement
