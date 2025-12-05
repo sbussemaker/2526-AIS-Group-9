@@ -143,6 +143,7 @@
     </sourceConnections>
     <bounds
         x="-12"
+        y="264"
         width="1093"
         height="265"/>
     <children
@@ -580,8 +581,8 @@
           href="ServingRelationship_id-fd0bbd0ee06842219a710c039a12d553.xml#id-fd0bbd0ee06842219a710c039a12d553"/>
     </sourceConnections>
     <bounds
-        x="-18"
-        y="300"
+        x="-48"
+        y="132"
         width="1105"
         height="73"/>
     <children
@@ -734,8 +735,7 @@
           href="CompositionRelationship_id-d47ce81838284319971f98eb65224c2a.xml#id-d47ce81838284319971f98eb65224c2a"/>
     </sourceConnections>
     <bounds
-        x="-18"
-        y="420"
+        x="-6"
         width="1081"
         height="97"/>
     <children
