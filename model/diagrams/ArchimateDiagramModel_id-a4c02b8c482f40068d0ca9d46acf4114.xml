@@ -2,11 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource Map Viewpoint"
-    id="id-a4c02b8c482f40068d0ca9d46acf4114">
+    id="id-a4c02b8c482f40068d0ca9d46acf4114"
+    viewpoint="resource">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-00eb18aa2dc24182881ce5f13da024c0"
-      targetConnections="id-ec94ddf1bdff4355aea2e2d327c5b47f id-18e45934692240febf802860f82b2244 id-edd4be54e54f4693865900674bf084be id-4017e026f86848609e243ff8305380c4 id-000c267de1ca487c8e47eded923131cc id-1ca883731ae34f2bbca659cf70ead482 id-2a8cc73fcd5348f4bd5b01f86c6a7744">
+      targetConnections="id-ec94ddf1bdff4355aea2e2d327c5b47f id-18e45934692240febf802860f82b2244 id-edd4be54e54f4693865900674bf084be id-4017e026f86848609e243ff8305380c4 id-000c267de1ca487c8e47eded923131cc id-1ca883731ae34f2bbca659cf70ead482">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b8d1467b45514c5ca52c2585734fbb79"
@@ -347,7 +348,7 @@
           href="ServingRelationship_id-50655ab8eaf34970ae7530f90710dddd.xml#id-50655ab8eaf34970ae7530f90710dddd"/>
     </sourceConnections>
     <bounds
-        x="131"
+        x="180"
         y="624"
         width="120"
         height="55"/>
@@ -377,24 +378,25 @@
         href="Resource_id-c8b67f16fbce4a4aa9a19fa92b02fbde.xml#id-c8b67f16fbce4a4aa9a19fa92b02fbde"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-abbfcdb98a25407dbb4e6a0b03e0a61f">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2a8cc73fcd5348f4bd5b01f86c6a7744"
-        source="id-abbfcdb98a25407dbb4e6a0b03e0a61f"
-        target="id-00eb18aa2dc24182881ce5f13da024c0">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-d833bb506bcf48b2a0f91254b65ce377.xml#id-d833bb506bcf48b2a0f91254b65ce377"/>
-    </sourceConnections>
+      xsi:type="archimate:DiagramModelNote"
+      id="id-072ea418fd1542fcbabd2aa92b64d01f"
+      textAlignment="1"
+      content="Add them into kadasater data&#xD;&#xA;">
     <bounds
-        x="276"
-        y="624"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Resource"
-        href="Resource_id-a204daf768f641ff8b7d7dfdc637d209.xml#id-a204daf768f641ff8b7d7dfdc637d209"/>
+        x="420"
+        y="599"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-07f244847dcd4458905ab0fbaa987c3a"
+      textAlignment="1"
+      content="copying instead acccessing">
+    <bounds
+        x="648"
+        y="588"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
