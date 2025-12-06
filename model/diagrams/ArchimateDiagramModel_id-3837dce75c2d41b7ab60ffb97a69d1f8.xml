@@ -14,16 +14,4 @@
         width="400"
         height="140"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6e9b700740e94aad9bb60fba1899736a">
-    <bounds
-        x="754"
-        y="229"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-099b93c432134aeeb0f16e2442410864.xml#id-099b93c432134aeeb0f16e2442410864"/>
-  </children>
 </archimate:ArchimateDiagramModel>
