@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Information Structure Viewpoint"
     id="id-1a67537feedf4f50b769acfda3a5f517"
-    viewpoint="business_process_cooperation">
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-29ee87f7095a47d3b84515d346b26e5b">
