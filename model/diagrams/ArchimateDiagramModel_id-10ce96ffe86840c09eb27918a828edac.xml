@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Structure Viewpoint"
-    id="id-10ce96ffe86840c09eb27918a828edac"
-    viewpoint="application_structure">
+    id="id-10ce96ffe86840c09eb27918a828edac">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-35c7f5f77d014f71acccbc203f0aab82"
