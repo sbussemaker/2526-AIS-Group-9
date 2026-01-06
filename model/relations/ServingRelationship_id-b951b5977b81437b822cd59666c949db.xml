@@ -6,6 +6,6 @@
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-1cb8dc5ccdfa4ceaaf50748904c4a713.xml#id-1cb8dc5ccdfa4ceaaf50748904c4a713"/>
   <target
-      xsi:type="archimate:Node"
-      href="Node_id-8733b1e1264742fcb881e40a7d84c0ef.xml#id-8733b1e1264742fcb881e40a7d84c0ef"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b2e71c2b27d2418e9122384684f27548.xml#id-b2e71c2b27d2418e9122384684f27548"/>
 </archimate:ServingRelationship>
