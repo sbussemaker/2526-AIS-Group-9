@@ -65,8 +65,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:Node"
-            href="Node_id-8733b1e1264742fcb881e40a7d84c0ef.xml#id-8733b1e1264742fcb881e40a7d84c0ef"/>
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_id-b2e71c2b27d2418e9122384684f27548.xml#id-b2e71c2b27d2418e9122384684f27548"/>
       </children>
     </children>
     <children
@@ -119,8 +119,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:Node"
-            href="Node_id-621e88f3b0f84510968d9604cfe133da.xml#id-621e88f3b0f84510968d9604cfe133da"/>
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_id-9283be101f5c4161b9da7308497adb05.xml#id-9283be101f5c4161b9da7308497adb05"/>
       </children>
     </children>
     <children
@@ -173,8 +173,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:Node"
-            href="Node_id-dd492d34fbc2421683ff2b4aad101c4f.xml#id-dd492d34fbc2421683ff2b4aad101c4f"/>
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_id-6403f2409b3a4da9a64150ac2083af91.xml#id-6403f2409b3a4da9a64150ac2083af91"/>
       </children>
     </children>
     <children
@@ -467,8 +467,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Node"
-          href="Node_id-bcd99ca0d27744ab9170c26db2163c5d.xml#id-bcd99ca0d27744ab9170c26db2163c5d"/>
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-554189645bd94fdc8d2af5e7924d2875.xml#id-554189645bd94fdc8d2af5e7924d2875"/>
     </children>
   </children>
   <children
@@ -531,8 +531,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Node"
-          href="Node_id-7899b4dd7d4541678e18e8e21053da2a.xml#id-7899b4dd7d4541678e18e8e21053da2a"/>
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-2f26fb136b99444c9cf52f877777dd90.xml#id-2f26fb136b99444c9cf52f877777dd90"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
