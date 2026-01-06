@@ -25,7 +25,6 @@
           href="CompositionRelationship_id-df3559fc856749c292899003895abdd6.xml#id-df3559fc856749c292899003895abdd6"/>
     </sourceConnections>
     <bounds
-        x="24"
         y="120"
         width="1093"
         height="133"/>
@@ -312,7 +311,7 @@
       id="id-3cfd95060d5c40c7b368b970f1f3d1db"
       targetConnections="id-98b6134c3ece4f4dafe72c4386f4556a">
     <bounds
-        x="48"
+        x="24"
         y="276"
         width="121"
         height="37"/>
@@ -325,7 +324,7 @@
       id="id-b501e038454c4b82895a1d153f894627"
       targetConnections="id-aa32073ff5de433a8c76c6874e61e3a6">
     <bounds
-        x="180"
+        x="156"
         y="276"
         width="109"
         height="61"/>
@@ -347,7 +346,7 @@
           href="ServingRelationship_id-1ab4cefd0f274d4081650741d95c3b2d.xml#id-1ab4cefd0f274d4081650741d95c3b2d"/>
     </sourceConnections>
     <bounds
-        x="300"
+        x="276"
         y="276"
         width="97"
         height="61"/>
@@ -369,7 +368,7 @@
           href="ServingRelationship_id-bd24efb0d62a4ad69fe27e8bed1ad4d0.xml#id-bd24efb0d62a4ad69fe27e8bed1ad4d0"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="384"
         y="276"
         width="85"
         height="85"/>
@@ -391,7 +390,7 @@
           href="ServingRelationship_id-779a5a964a604d3eb71a87fcc31527f1.xml#id-779a5a964a604d3eb71a87fcc31527f1"/>
     </sourceConnections>
     <bounds
-        x="504"
+        x="480"
         y="276"
         width="85"
         height="61"/>
@@ -404,7 +403,7 @@
       id="id-4f5c0b4e2fc44e11ad7f099621df5669"
       targetConnections="id-0bce87b75b2f4869a64b84d2724e6059">
     <bounds
-        x="600"
+        x="576"
         y="276"
         width="73"
         height="61"/>
@@ -417,7 +416,7 @@
       id="id-cf0fd3dc29134930a255f32e922aa1cc"
       targetConnections="id-3fb2a404f81f4b3f9c3fcb3004693a5d">
     <bounds
-        x="816"
+        x="792"
         y="276"
         width="181"
         height="37"/>
@@ -430,7 +429,7 @@
       id="id-f08055c3c0504819be26755fb05a723d"
       targetConnections="id-4dec936cdd38408cb7f486c903dced15">
     <bounds
-        x="696"
+        x="672"
         y="276"
         width="97"
         height="37"/>
