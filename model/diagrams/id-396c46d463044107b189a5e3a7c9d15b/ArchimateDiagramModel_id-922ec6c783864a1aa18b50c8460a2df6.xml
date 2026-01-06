@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="application structure"
+    name="Application Structure"
     id="id-922ec6c783864a1aa18b50c8460a2df6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
