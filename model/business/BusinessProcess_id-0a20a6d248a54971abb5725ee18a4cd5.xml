@@ -1,4 +1,4 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Federate retrieval(KKG + CBS)"
+    name="Federate retrieval(prefer KKG, fallback to CBS)"
     id="id-0a20a6d248a54971abb5725ee18a4cd5"/>
