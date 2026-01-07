@@ -215,8 +215,8 @@
           href="ServingRelationship_id-cc6e851a0af84a54b1dedd5a5b574f5b.xml#id-cc6e851a0af84a54b1dedd5a5b574f5b"/>
     </sourceConnections>
     <bounds
-        x="700"
-        y="336"
+        x="492"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
@@ -237,8 +237,8 @@
           href="ServingRelationship_id-4c22d2e062dc44deb8c39f122d102c76.xml#id-4c22d2e062dc44deb8c39f122d102c76"/>
     </sourceConnections>
     <bounds
-        x="918"
-        y="336"
+        x="696"
+        y="324"
         width="151"
         height="55"/>
     <archimateElement
@@ -259,8 +259,8 @@
           href="ServingRelationship_id-00d708a101de4cb9938202f834335b15.xml#id-00d708a101de4cb9938202f834335b15"/>
     </sourceConnections>
     <bounds
-        x="713"
-        y="156"
+        x="492"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
@@ -277,22 +277,22 @@
         source="id-861161b74d7b4d429412e08ec0bd68ab"
         target="id-b825c255b52540faac517533d93552b6">
       <bendpoints
-          startX="12"
-          startY="-51"
-          endX="-72"
-          endY="57"/>
-      <bendpoints
           startX="48"
           startY="-51"
-          endX="-36"
-          endY="57"/>
+          endX="-108"
+          endY="69"/>
+      <bendpoints
+          startX="132"
+          startY="-51"
+          endX="-24"
+          endY="69"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-047b3e88c37844679423a82337bc04ff.xml#id-047b3e88c37844679423a82337bc04ff"/>
     </sourceConnections>
     <bounds
-        x="629"
-        y="264"
+        x="336"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -304,8 +304,8 @@
       id="id-dc291683370f4732869d4de2e7c0bb46"
       targetConnections="id-feca7f1395054b59a09a4af4a780d862">
     <bounds
-        x="723"
-        y="60"
+        x="503"
+        y="84"
         width="120"
         height="55"/>
     <archimateElement
