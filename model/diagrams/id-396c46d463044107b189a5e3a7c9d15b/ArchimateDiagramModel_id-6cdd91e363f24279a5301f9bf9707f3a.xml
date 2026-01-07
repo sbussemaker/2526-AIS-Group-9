@@ -149,7 +149,7 @@
       id="id-a22bd23ce1744f358d66c00b33adc5d6"
       targetConnections="id-a8b80bdbea9644808d6489d0c01e0cbd id-30870dfcf5ad465abba3b488f7ae2df6">
     <bounds
-        x="148"
+        x="96"
         y="57"
         width="140"
         height="55"/>
@@ -210,9 +210,9 @@
           href="AggregationRelationship_id-d993e70b341347e394d12f67f47b35a4.xml#id-d993e70b341347e394d12f67f47b35a4"/>
     </sourceConnections>
     <bounds
-        x="372"
+        x="324"
         y="57"
-        width="120"
+        width="277"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
