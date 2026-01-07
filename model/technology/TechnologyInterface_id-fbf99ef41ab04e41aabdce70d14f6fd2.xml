@@ -1,4 +1,5 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="JSON-RPC"
-    id="id-fbf99ef41ab04e41aabdce70d14f6fd2"/>
+    name="Server Stub"
+    id="id-fbf99ef41ab04e41aabdce70d14f6fd2"
+    documentation="JSON RPC"/>
