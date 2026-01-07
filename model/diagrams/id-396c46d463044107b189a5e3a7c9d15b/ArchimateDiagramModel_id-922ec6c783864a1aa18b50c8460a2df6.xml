@@ -271,10 +271,10 @@
       id="id-4f5c0b4e2fc44e11ad7f099621df5669"
       targetConnections="id-0bce87b75b2f4869a64b84d2724e6059">
     <bounds
-        x="216"
+        x="192"
         y="276"
-        width="73"
-        height="61"/>
+        width="97"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-25f41e43f312466ca50cbef50f948555.xml#id-25f41e43f312466ca50cbef50f948555"/>
