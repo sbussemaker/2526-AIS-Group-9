@@ -3,8 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-91b4b377e6274e10b4baa4d5f689015c">
   <source
-      xsi:type="archimate:Node"
-      href="Node_id-621e88f3b0f84510968d9604cfe133da.xml#id-621e88f3b0f84510968d9604cfe133da"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-9283be101f5c4161b9da7308497adb05.xml#id-9283be101f5c4161b9da7308497adb05"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-85641a4b896a4beb8852af1f66205a6e.xml#id-85641a4b896a4beb8852af1f66205a6e"/>

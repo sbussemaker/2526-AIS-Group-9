@@ -1,4 +1,4 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Let clients access data in a simple way"
+    name="Let clients access data without knowledge of SPARQL"
     id="id-cb9e99bfaf28423b9b1909fcc92dd7e0"/>
