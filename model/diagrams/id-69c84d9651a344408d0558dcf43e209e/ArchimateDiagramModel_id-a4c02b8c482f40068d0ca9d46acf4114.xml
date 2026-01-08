@@ -242,9 +242,9 @@
           href="ServingRelationship_id-f589dda4777240cebf02f37cbb125acb.xml#id-f589dda4777240cebf02f37cbb125acb"/>
     </sourceConnections>
     <bounds
-        x="708"
+        x="756"
         y="360"
-        width="151"
+        width="437"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
