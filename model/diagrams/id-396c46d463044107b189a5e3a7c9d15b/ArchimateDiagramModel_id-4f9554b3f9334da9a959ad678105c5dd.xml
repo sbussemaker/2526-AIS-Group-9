@@ -338,7 +338,7 @@
       id="id-fe814c16f0f2431380b4e4de989b2794"
       targetConnections="id-ffc877b51aaa44628404d7ce126cf8fe">
     <bounds
-        x="744"
+        x="696"
         y="24"
         width="120"
         height="55"/>
@@ -359,8 +359,8 @@
           href="ServingRelationship_id-09b3b410df56472da22d4e1d2f2c71d9.xml#id-09b3b410df56472da22d4e1d2f2c71d9"/>
     </sourceConnections>
     <bounds
-        x="113"
-        y="456"
+        x="120"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement

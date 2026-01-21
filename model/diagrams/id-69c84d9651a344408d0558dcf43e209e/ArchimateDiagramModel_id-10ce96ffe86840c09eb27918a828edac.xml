@@ -203,9 +203,9 @@
               href="FlowRelationship_id-e7a0603161024c76afbfd35085496a1c.xml#id-e7a0603161024c76afbfd35085496a1c"/>
         </sourceConnections>
         <bounds
-            x="168"
+            x="156"
             y="48"
-            width="73"
+            width="85"
             height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -318,9 +318,9 @@
               href="ServingRelationship_id-4caa7818a34c4a83bf686d616d3f8bc9.xml#id-4caa7818a34c4a83bf686d616d3f8bc9"/>
         </sourceConnections>
         <bounds
-            x="36"
+            x="12"
             y="48"
-            width="73"
+            width="97"
             height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
