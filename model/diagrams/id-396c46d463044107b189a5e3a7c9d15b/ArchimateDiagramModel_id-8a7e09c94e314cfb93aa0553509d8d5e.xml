@@ -731,4 +731,16 @@
         xsi:type="archimate:ImplementationEvent"
         href="ImplementationEvent_id-1d91601f9ad04da59d989606a6b42872.xml#id-1d91601f9ad04da59d989606a6b42872"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4bcaa244cc754add9ecee54ee6bb0e7e">
+    <bounds
+        x="1194"
+        y="645"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-b2d67f5a1f044724ad7f8a17f2922cfd.xml#id-b2d67f5a1f044724ad7f8a17f2922cfd"/>
+  </children>
 </archimate:ArchimateDiagramModel>
