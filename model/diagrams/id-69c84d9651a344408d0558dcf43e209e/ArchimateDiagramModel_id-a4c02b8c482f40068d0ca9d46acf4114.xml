@@ -54,9 +54,9 @@
           href="AggregationRelationship_id-5d2f6246a2fa4aa1b9ea0285a2454542.xml#id-5d2f6246a2fa4aa1b9ea0285a2454542"/>
     </sourceConnections>
     <bounds
-        x="221"
+        x="228"
         y="480"
-        width="541"
+        width="534"
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -72,10 +72,10 @@
             href="ServingRelationship_id-500dcd1653bf47f5b7339ddc04c0db52.xml#id-500dcd1653bf47f5b7339ddc04c0db52"/>
       </sourceConnections>
       <bounds
-          x="12"
+          x="24"
           y="24"
-          width="120"
-          height="55"/>
+          width="101"
+          height="49"/>
       <archimateElement
           xsi:type="archimate:Resource"
           href="Resource_id-fdf104a063a14b0392643a867b1cf064.xml#id-fdf104a063a14b0392643a867b1cf064"/>
@@ -96,8 +96,8 @@
       <bounds
           x="144"
           y="24"
-          width="120"
-          height="55"/>
+          width="97"
+          height="49"/>
       <archimateElement
           xsi:type="archimate:Resource"
           href="Resource_id-d5add82f237d4b16887cceb5f98bb5b2.xml#id-d5add82f237d4b16887cceb5f98bb5b2"/>
@@ -116,10 +116,10 @@
             href="ServingRelationship_id-7af6855186b24aa4820c50da630bab1d.xml#id-7af6855186b24aa4820c50da630bab1d"/>
       </sourceConnections>
       <bounds
-          x="276"
+          x="264"
           y="24"
-          width="120"
-          height="55"/>
+          width="109"
+          height="49"/>
       <archimateElement
           xsi:type="archimate:Resource"
           href="Resource_id-5d98600da6634b80a20a5723c2f3e009.xml#id-5d98600da6634b80a20a5723c2f3e009"/>
@@ -138,10 +138,10 @@
             href="ServingRelationship_id-e79b49ca66ed473ab29bcfa406447dc4.xml#id-e79b49ca66ed473ab29bcfa406447dc4"/>
       </sourceConnections>
       <bounds
-          x="408"
+          x="396"
           y="24"
-          width="120"
-          height="55"/>
+          width="109"
+          height="49"/>
       <archimateElement
           xsi:type="archimate:Resource"
           href="Resource_id-560765e82418432eb75edce20eabec42.xml#id-560765e82418432eb75edce20eabec42"/>
@@ -330,8 +330,8 @@
           href="ServingRelationship_id-0d2523f378c8488b8d72020096e68dfc.xml#id-0d2523f378c8488b8d72020096e68dfc"/>
     </sourceConnections>
     <bounds
-        x="41"
-        y="480"
+        x="60"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
