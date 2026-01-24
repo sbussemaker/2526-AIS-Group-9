@@ -270,15 +270,4 @@
         xsi:type="archimate:Requirement"
         href="Requirement_id-f3b817c056234e12b849b6ae39f74ff3.xml#id-f3b817c056234e12b849b6ae39f74ff3"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-0077fb842b41492e8c3134c630b797ce"
-      textAlignment="1"
-      content="Did not change anything here, but removed some elements in as-is&#xD;&#xA;&#xD;&#xA;">
-    <bounds
-        x="902"
-        y="212"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
