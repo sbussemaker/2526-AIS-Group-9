@@ -567,9 +567,9 @@
               href="FlowRelationship_id-932acf0a01d64a9ba636a1b591c97d00.xml#id-932acf0a01d64a9ba636a1b591c97d00"/>
         </sourceConnections>
         <bounds
-            x="24"
+            x="12"
             y="36"
-            width="97"
+            width="109"
             height="61"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
