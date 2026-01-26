@@ -174,7 +174,7 @@
             x="36"
             y="36"
             width="97"
-            height="37"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_id-9193d1216c044dddb5a020071a30199c.xml#id-9193d1216c044dddb5a020071a30199c"/>
@@ -205,7 +205,7 @@
             x="252"
             y="36"
             width="73"
-            height="37"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_id-646358ac86a04045aaae846d6e60aabf.xml#id-646358ac86a04045aaae846d6e60aabf"/>
