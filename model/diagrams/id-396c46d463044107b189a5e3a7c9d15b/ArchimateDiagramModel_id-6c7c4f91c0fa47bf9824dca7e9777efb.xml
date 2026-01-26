@@ -195,8 +195,8 @@
         <bounds
             x="12"
             y="24"
-            width="73"
-            height="37"/>
+            width="109"
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_id-2717c0a9cc3b4c7ea0faea76f7467c2b.xml#id-2717c0a9cc3b4c7ea0faea76f7467c2b"/>
