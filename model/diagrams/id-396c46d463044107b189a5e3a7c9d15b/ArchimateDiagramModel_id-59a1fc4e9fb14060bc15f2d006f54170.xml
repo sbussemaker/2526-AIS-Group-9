@@ -3,7 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholder Viewpoint"
     id="id-59a1fc4e9fb14060bc15f2d006f54170"
-    documentation="Req 1. Should model the stakeholders, internal or external drivers for change, and the assessments of these drivers"
     viewpoint="stakeholder">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

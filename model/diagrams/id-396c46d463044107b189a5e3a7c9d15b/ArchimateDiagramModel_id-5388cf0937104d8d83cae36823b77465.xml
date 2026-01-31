@@ -3,7 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organization Viewpoint"
     id="id-5388cf0937104d8d83cae36823b77465"
-    documentation="Req 8: Models the structure of the organisation(s) of the enterprise, department, or other organisational entity(ies)"
     viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

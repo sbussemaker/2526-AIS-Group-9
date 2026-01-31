@@ -1,9 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Requirements Realization View"
+    name="Requirements Realization Viewpoint"
     id="id-d5dc0fa190cf421db711b1b59afa784b"
-    documentation="Req 5. Should model the realisation of requirements by core elements"
     viewpoint="requirements_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

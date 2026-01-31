@@ -3,7 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementation and Deployment Viewpoint"
     id="id-6eddcae201384d77ac682f54251de0b0"
-    documentation="Req 16: Models how applications are supported by the software and hardware infrastructure: technology services delivered by the devices, system software and networks are provided to the applications&#xD;&#xA;"
     viewpoint="implementation_deployment">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1756,6 +1755,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ba5301f4585c4bcfa6260b4dd94b96be"
+          textPosition="2"
           source="id-449cd2106cb94463a22c483fca04bb3e"
           target="id-df817f808d8a46319c1064d6f44384a1">
         <bendpoints
@@ -1774,6 +1774,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-270156f2a84a48a28614df9718348595"
+          textPosition="2"
           source="id-449cd2106cb94463a22c483fca04bb3e"
           target="id-8ba2a061afdf4ce491f719a1b27da594">
         <bendpoints
@@ -1798,6 +1799,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0b89e5feb2a04aa6adfb3df582a88373"
+          textPosition="2"
           source="id-449cd2106cb94463a22c483fca04bb3e"
           target="id-5cbdc483c8944e21ba473a8d265fd146">
         <bendpoints
@@ -1822,6 +1824,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4950668928f949ca8ff5fd17d7ffe3cf"
+          textPosition="2"
           source="id-449cd2106cb94463a22c483fca04bb3e"
           target="id-3f1b28c0cac4485892f481e4bd380d56">
         <bendpoints
@@ -1846,6 +1849,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-46f4b45483d04e11a13432dd4ed04da8"
+          textPosition="2"
           source="id-449cd2106cb94463a22c483fca04bb3e"
           target="id-fac20302950945fb89cef137ce1f23f7">
         <bendpoints
