@@ -1,5 +1,5 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="S2 Interaction between natural language and data, so customers can easily interact with data"
+    name="S2 Single SPARQL interface to interact with the KKG, so customers can easily access it"
     id="id-15c3dc1201cb458991fc97d05b0d1fe9"
     documentation="Makes SPARQL accessible for more people"/>
