@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Process Cooperation Viewpoint"
+    name="Business Process Cooperation as-is"
     id="id-dab5e8726cf74b2f8b594ee06947da4c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

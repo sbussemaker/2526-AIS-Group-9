@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Product Viewpoint"
+    name="Product to-be"
     id="id-df3f24feac894a5088b39566be6b185c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

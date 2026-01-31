@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Usage Viewpoint"
+    name="Application Usage to-be"
     id="id-a5e165acbe924a4da63e0332fdb1a762">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
