@@ -3,7 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementation and Deployment Viewpoint"
     id="id-6eddcae201384d77ac682f54251de0b0"
-    documentation="Req 16: Models how applications are supported by the software and hardware infrastructure: technology services delivered by the devices, system software and networks are provided to the applications&#xD;&#xA;"
     viewpoint="implementation_deployment">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

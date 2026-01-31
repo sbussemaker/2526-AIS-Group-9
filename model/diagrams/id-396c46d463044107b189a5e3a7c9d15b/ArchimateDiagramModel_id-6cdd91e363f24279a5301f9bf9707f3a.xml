@@ -1,9 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Goal Realization View"
+    name="Goal Realization Viewpoint"
     id="id-6cdd91e363f24279a5301f9bf9707f3a"
-    documentation="Req 2. Should model the refinement of high-level goals into more concrete goals, and the refinement of concrete goals into requirements or constraints that realise these goals&#xD;&#xA;Req 3. Should model the influence relationships between goals and requirements&#xD;&#xA;Req 4. Should model the principles that are relevant to the design problem at hand, including the goals that motivate those principles"
     viewpoint="goal_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
